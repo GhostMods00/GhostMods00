@@ -17,3 +17,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhostMods00&theme=blue_green&utcOffset=8">
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
