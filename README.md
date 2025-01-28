@@ -6,19 +6,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=25&pause=1000&color=41F711&center=true&width=435&lines=root%40life%3A~%23+happiness.exe;Error+401%3A+Humor+Unauthorized+%F0%9F%9A%AB)](https://git.io/typing-svg)
 
 
- <br> 
-<img alt="Waleed's stats" src="https://github-readme-stats.vercel.app/api?username=GhostMods00&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Waleed's_Github_stats&card_width=100&hide=issues">
+<div align=center> 
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=30&duration=3000&pause=200&color=3C9021&width=435&lines=Make+it+work;Make+it+right;Make+it+fast)](https://git.io/typing-svg)
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhostMods00&theme=blue_green">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhostMods00&theme=blue_green">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhostMods00&theme=blue_green">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhostMods00&theme=blue_green">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhostMods00&theme=blue_green&utcOffset=8">
 </div>
-<br>
-<div align="center">
 
- <br>
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostMods00&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009">
-</div>
-
-
-<div align="center">
-</br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
